@@ -10,7 +10,7 @@ All of this is covered within our tutorial that provides a step by step guide of
 
 Our [template page](https://jasminews.uk/templates/ "jasminews.uk/templates/") contains more information about what we ship as part of the JWS templates.
 
-This template is built to be part of our JasmineWs Step by Step tutorial. Though if you know how to use HTML & CSS then you can use it as a starter to building your own website. We have some information on this on our [template page](https://jasminews.uk/templates/ "jasminews.uk/templates/").
+This template is built to be part of our JasmineWS Step by Step tutorial. Though if you know how to use HTML & CSS then you can use it as a starter for building your own website. We have some information on this on our [template page](https://jasminews.uk/templates/ "jasminews.uk/templates/").
 
 ## Getting Started with JWS One
 We have defined all the steps for you to follow along in our [Doc's](https://jasminews.uk/docs/ "jasminews.uk/docs/"), which we believe will provide you with a clear guide to get building.
